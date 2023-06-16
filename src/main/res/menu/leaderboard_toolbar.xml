@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/action_all_time"
+        android:title="כל הזמנים"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_one_week"
+        android:title="שבוע"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_one_day"
+        android:title="יום"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_personal"
+        android:title="אישי"
+        app:showAsAction="always" />
+
+
+</menu>

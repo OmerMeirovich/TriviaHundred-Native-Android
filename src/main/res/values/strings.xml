@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">טריוויה מאה</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="shared_prefs">com.apps.meirovichomer.triviagame.shared</string>
+    <string name="prefs_user_id">user_id</string>
+    <string name="prefs_session_id">session_id</string>
+    <string name="question_string">Question:</string>
+    <string name="score_points">score_points</string>
+    <string name="questions_answered">questions_answered</string>
+    <string name="user_name">user_name</string>
+    <string name="user_uuid">uuid</string>
+    <string name="trivia_100">Trivia \n 100</string>
+    <string name="confirm_txt">אישור</string>
+    <string name="change_name_txt">בכדי לשנות את שמך הכנס שם חדש ולחץ אישור.</string>
+    <string name="personal_best_txt">התוצאות הטובות ביותר שלך</string>
+    <string name="wrong_option_txt">תשובה שגויה</string>
+    <string name="correct_answer_txt">תשובה נכונה</string>
+    <string name="write_question_txt">כתוב את השאלה שלך כאן</string>
+    <string name="send_suggestion_txt">שלח שאלה</string>
+    <string name="play_again_txt">שחק שוב</string>
+    <string name="final_score_txt">תוצאה סופית</string>
+    <string name="questions_num_txt">מספר שאלות</string>
+    <string name="welcome_txt">ברוכים הבאים! אנא כתבו את שמכם.</string>
+    <string name="your_name_txt">שם</string>
+    <string name="suggest_title">הצע שאלה</string>
+    <string name="config_title">הגדרות</string>
+    <string name="leaderboard_title">לוח ניקוד</string>
+    <string name="start_game_title">התחל משחק</string>
+    <string name="credit_txt">This app was created by Omer Meirovich</string>
+    <string name="zero_txt">0</string>
+    <string name="strike_one">strike_one</string>
+    <string name="strike_two">strike_two</string>
+    <string name="strike_three">strike_three</string>
+    <string name="stop_watch_img">stop_watch_img</string>
+    <string name="rank_img">rank_img</string>
+
+
+</resources>
